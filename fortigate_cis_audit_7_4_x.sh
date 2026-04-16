@@ -3,17 +3,6 @@
 # ============================================================
 #  CIS FortiGate 7.4.x Benchmark v1.0.1 Audit Script
 #  Tested against FortiOS 7.4.x series
-#  Updated from: CIS FortiGate 7.0.x Benchmark v1.3.0
-#  Key changes vs 7.0.x:
-#    - New: 2.3.4 SNMP memory trap check
-#    - Updated: 2.4.1 requires removal of default 'admin' account
-#    - Updated: HA section renumbered to 2.5.x
-#    - New: 2.4.8 virtual patching now automated
-#    - Updated: 4.4.1 now checks for web filter profile existence
-#    - Renumbered: App Control moved to 4.5.x
-#    - New: 7.3.2 syslog encryption check
-#    - Updated: CLI keys for 7.4.x (admintimeout, ssl-static-key-ciphers,
-#               admin-lockout-duration, intrazone-deny, etc.)
 # ============================================================
 
 log() {
