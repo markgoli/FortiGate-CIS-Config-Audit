@@ -1,4 +1,4 @@
-# FortiGate Firewall CIS Benchmark Audit Script (v1.0.1) -- 7.4.x Series
+# FortiGate Firewall CIS Benchmark Audit Script (v1.0.1) - 7.4.x Series
 
 This project provides an automated audit tool for reviewing **FortiGate
 Firewall (7.4.x series)** configurations against the **Center for
