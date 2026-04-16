@@ -62,7 +62,7 @@ data for accurate analysis.
 
 ## Output
 
-The script generates 2 structured compliance reports (`.html`, `.csv`)  that:
+The script generates a structured compliance report (`.html`)  that:
 
 -   Indicates **PASS / FAIL / REVIEW** per CIS control
 -   Highlights insecure or non-compliant configurations
