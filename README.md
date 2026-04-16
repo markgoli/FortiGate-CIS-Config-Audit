@@ -10,7 +10,7 @@ misconfigurations and strengthen firewall security posture.
 
 ------------------------------------------------------------------------
 
-## 🚀 Features
+## Features
 
 -   Automated CIS Benchmark compliance checks (v1.0.1)
 -   Tailored for FortiGate 7.4.x series
@@ -21,7 +21,7 @@ misconfigurations and strengthen firewall security posture.
 
 ------------------------------------------------------------------------
 
-## 📂 Requirements
+## Requirements
 
 -   Linux/Unix-based system
 -   Bash shell (v4+ recommended)
@@ -30,7 +30,7 @@ misconfigurations and strengthen firewall security posture.
 
 ------------------------------------------------------------------------
 
-## ⚙️ Usage
+## Usage
 
 ### 1. Make the script executable
 
@@ -46,7 +46,7 @@ chmod +x fortigate_cis_audit_7_4_x.sh
 
 ------------------------------------------------------------------------
 
-## 📥 Input
+## Input
 
 The script expects a configuration file exported from a Check Point
 Firewall. Configuration file formats can be:
@@ -60,7 +60,7 @@ data for accurate analysis.
 
 ------------------------------------------------------------------------
 
-## 📤 Output
+## Output
 
 The script generates 2 structured compliance reports (`.html`, `.csv`)  that:
 
@@ -70,7 +70,7 @@ The script generates 2 structured compliance reports (`.html`, `.csv`)  that:
 
 ------------------------------------------------------------------------
 
-## 🛡️ CIS Benchmark Coverage
+## CIS Benchmark Coverage
 
 Aligned with:
 
@@ -86,7 +86,7 @@ Coverage may include:
 
 ------------------------------------------------------------------------
 
-## ⚠️ Disclaimer
+## Disclaimer
 
 This script is intended for **security auditing and assessment purposes
 only**.
